@@ -1,5 +1,5 @@
 # dataviz-ilots-fraicheur-paris
-Projet DataViz – Analyse des équipements de fraîcheur à Paris
+
 
 # Les îlots de fraîcheur à Paris : répartition, accessibilité et disponibilité
 
