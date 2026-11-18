@@ -295,7 +295,7 @@ https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Tableau%20
 https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Re%CC%81partition%20ge%CC%81ographique.png 
 
 ### Répartition des équipements selon leur tarification
-![Uploading Capture d’écran 2026-11-17 à 14.54.15.png…]()
+https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Re%CC%81partition%20des%20e%CC%81quipements%20selon%20leur%20tarification.png
 
 ### KPI Gratuité
 ![Uploading Capture d’écran 2026-11-17 à 14.55.25.png…]()
