@@ -286,8 +286,7 @@ WHERE `geo_point_2d` IS NOT NULL
 
   Tableau/
 ### Tableau de bord global
-![Uploading Capture d’écran 2026-11-17 à 15.01.24.png…]() 
-
+https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Tableau%20de%20bord.png
 
 ### Répartition par type
 ![Uploading Capture d’écran 2026-11-17 à 14.48.13.png…]()
