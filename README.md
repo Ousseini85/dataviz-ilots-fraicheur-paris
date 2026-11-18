@@ -292,7 +292,7 @@ https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Tableau%20
 [Répartition des équipements par type.png](https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Re%CC%81partition%20des%20e%CC%81quipements%20par%20type.png)
 
 ### Répartition géographique
-![Uploading Capture d’écran 2026-11-17 à 13.56.55.png…]()
+https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Re%CC%81partition%20ge%CC%81ographique.png 
 
 ### Répartition des équipements selon leur tarification
 ![Uploading Capture d’écran 2026-11-17 à 14.54.15.png…]()
