@@ -301,7 +301,7 @@ https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Re%CC%81pa
 https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/KPI%20Gratuite%CC%81.png
 
 ### Nombre total d'équipements
-![Uploading Capture d’écran 2026-11-17 à 14.57.25.png…]()
+https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Nombre%20total%20d'e%CC%81quipements.png
 
 ### Disponibilité des horaires
 ![Uploading Capture d’écran 2026-11-17 à 14.59.35.png…]()
