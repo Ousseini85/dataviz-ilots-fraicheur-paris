@@ -309,4 +309,4 @@ https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Disponibil
 
 Machine_Learning
 ### Clustering_kmeans
-![Uploading chart.png…]()
+https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/chart.png
