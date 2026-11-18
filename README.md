@@ -298,7 +298,7 @@ https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Re%CC%81pa
 https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Re%CC%81partition%20des%20e%CC%81quipements%20selon%20leur%20tarification.png
 
 ### KPI Gratuité
-![Uploading Capture d’écran 2026-11-17 à 14.55.25.png…]()
+https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/KPI%20Gratuite%CC%81.png
 
 ### Nombre total d'équipements
 ![Uploading Capture d’écran 2026-11-17 à 14.57.25.png…]()
