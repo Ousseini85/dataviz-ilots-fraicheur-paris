@@ -286,7 +286,7 @@ WHERE `geo_point_2d` IS NOT NULL
 
   Tableau/
 ### Tableau de bord global
-![Uploading Capture d’écran 2026-11-17 à 15.01.24.png…]()
+![Uploading Capture d’écran 2026-11-17 à 15.01.24.png…]() 
 
 
 ### Répartition par type
