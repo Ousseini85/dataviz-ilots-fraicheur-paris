@@ -289,7 +289,7 @@ WHERE `geo_point_2d` IS NOT NULL
 https://github.com/Ousseini85/dataviz-ilots-fraicheur-paris/blob/main/Tableau%20de%20bord.png
 
 ### Répartition par type
-![Uploading Capture d’écran 2026-11-17 à 14.48.13.png…]()
+Répartition des équipements par type.png
 
 ### Répartition géographique
 ![Uploading Capture d’écran 2026-11-17 à 13.56.55.png…]()
